@@ -1,0 +1,1 @@
+## Application used to manage server content
