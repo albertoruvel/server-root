@@ -22,21 +22,9 @@
                     <a href="/" class="logo">
                         <img src="resources/img/java.png" alt="Logo">
                     </a>
-                    <!-- menu buttons -->
-                    <button type="button" class="search-button menu-button" data-toggle="collapse" data-target="#search-block" aria-expanded="false">
-                        <i class="material-icons">search</i>
-                    </button>
                     <button type="button" class="menu-button hidden-md-up" data-toggle="collapse" data-target="#principal-menu" aria-expanded="false">
                         <i class="material-icons">menu</i>
                     </button>
-
-                    <!-- search block -->
-                    <form action="#" id="search-block" class="collapse">
-                        <div class="search-container-block">
-                            <input type="text" placeholder="Search...">
-                            <input type="submit" value="Search">
-                        </div>
-                    </form>
                     <nav id="principal-menu" class="collapse">
                     </nav>
                 </div>
