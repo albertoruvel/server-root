@@ -38,11 +38,6 @@
                         </div>
                     </form>
                     <nav id="principal-menu" class="collapse">
-                        <ul>
-                            <li class="active"><a href="/">Home</a></li>
-                            <li><a href="dareu">Dare‹</a></li>
-                            <li><a href="leafo3">LeafO3</a></li>
-                        </ul>
                     </nav>
                 </div>
             </header>
